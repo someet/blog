@@ -69,5 +69,5 @@ theme: maupassant
 ## Docs: https://hexo.io/docs/deployment.html
 deploy: 
   type: git
-  repository: https://github.com/someet/someet.github.io.git
+  repository: https://github.com/someet/blog.git
   branch: gh-pages
