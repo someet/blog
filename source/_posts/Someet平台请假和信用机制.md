@@ -5,11 +5,7 @@ tags:
 ---
 亲爱的Someet用户，感谢你对我们一直以来的支持、认可和陪伴。在探索兴趣、寻找伙伴、发现自己的同时，我们也希望你可以一起维护这个真诚友善，利他信任的社区氛围。结合我们产品功能的迭代，特在此重申平台请假和信用规则：
 
-<<<<<<< HEAD
 <img src="http://img.someet.cc/FtJbvOwV1n9Jh_O9XRo1udMHbK2_" style="width: 100%;"/>
-=======
-<img src="http://7xn8h3.com1.z0.glb.clouddn.com/%E5%B9%B3%E5%8F%B0%E4%BF%A1%E7%94%A8%E6%9C%BA%E5%88%B6.png" style="width: 100%;"/>
->>>>>>> 5cbd0acac0347cf1e7d36bb142a413fdcfcde514
 
 1取消报名
 
